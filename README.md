@@ -1,2 +1,2 @@
 # SACities
-A collection of South Africa cities
+A collection of South African cities
